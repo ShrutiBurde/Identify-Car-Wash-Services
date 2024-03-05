@@ -1,0 +1,56 @@
+14:04:13.250 [main] INFO  factory.BaseClass - *******Get the location*******
+14:04:14.406 [main] INFO  factory.BaseClass - *******Enter the Car washing services and search*******
+14:05:00.611 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:05:07.152 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+14:05:49.116 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:05:55.774 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+14:06:36.916 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:10:06.958 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:10:09.501 [main] INFO  factory.BaseClass - *******Validating the title*******
+14:10:10.018 [main] INFO  factory.BaseClass - *******Get the location*******
+14:10:11.044 [main] INFO  factory.BaseClass - *******Enter the Car washing services and search*******
+14:10:14.532 [main] INFO  factory.BaseClass - *******Applying the filter*******
+14:10:18.968 [main] INFO  factory.BaseClass - *******Getting the details of services*******
+14:11:07.820 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:11:13.087 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+14:11:16.577 [main] INFO  factory.BaseClass - *******Enter the Phone Number*******
+14:11:17.117 [main] INFO  factory.BaseClass - *******Click on the start now button*******
+14:11:17.687 [main] INFO  factory.BaseClass - ******Validating the error message******
+14:11:29.618 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:11:36.338 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+14:11:39.147 [main] INFO  factory.BaseClass - *******Enter the Phone Number*******
+14:11:39.649 [main] INFO  factory.BaseClass - *******Click on the start now button*******
+14:11:40.162 [main] INFO  factory.BaseClass - ******Validating the error message******
+14:11:52.904 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:11:58.674 [main] INFO  factory.BaseClass - *******Scroll Down*******
+14:11:59.394 [main] INFO  factory.BaseClass - *******Click on the Gym*******
+14:12:30.512 [main] INFO  factory.BaseClass - ******Getting the submenu in list*******
+14:12:34.129 [main] INFO  factory.BaseClass - *******Get the all details from submenu dropdown*******
+14:33:52.103 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:34:50.418 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:35:36.209 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+14:36:49.898 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:36:52.526 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+14:38:01.084 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:39:58.728 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:41:00.766 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:41:06.394 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+14:42:10.550 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:42:11.845 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+14:43:14.593 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:43:17.147 [main] INFO  factory.BaseClass - *******Scroll Down*******
+14:43:17.948 [main] INFO  factory.BaseClass - *******Click on the Gym*******
+17:05:50.203 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+21:34:15.190 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+21:34:16.061 [main] INFO  factory.BaseClass - *******Validating the title*******
+21:34:16.546 [main] INFO  factory.BaseClass - *******Get the location*******
+21:34:17.347 [main] INFO  factory.BaseClass - *******Enter the Car washing services and search*******
+21:34:24.942 [main] INFO  factory.BaseClass - *******Applying the filter*******
+21:34:28.332 [main] INFO  factory.BaseClass - *******Getting the details of services*******
+21:35:16.835 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+21:35:23.150 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+21:35:28.663 [main] INFO  factory.BaseClass - *******Enter the Phone Number*******
+21:35:29.017 [main] INFO  factory.BaseClass - *******Click on the start now button*******
+21:35:29.369 [main] INFO  factory.BaseClass - ******Validating the error message******
+21:35:50.493 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+21:35:52.429 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******

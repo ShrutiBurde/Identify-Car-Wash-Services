@@ -1,0 +1,56 @@
+12:54:59.127 [main] INFO  factory.BaseClass - *******Enter the Car washing services and search*******
+12:54:59.163 [main] INFO  factory.BaseClass - *******Applying the filter*******
+12:54:59.168 [main] INFO  factory.BaseClass - *******Getting the details of services*******
+12:54:59.173 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+12:54:59.183 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+12:54:59.191 [main] INFO  factory.BaseClass - *******Enter The wrong number*******
+12:54:59.197 [main] INFO  factory.BaseClass - *******Click on the start now button*******
+12:54:59.201 [main] INFO  factory.BaseClass - ******Validating the error message******
+12:54:59.205 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+12:54:59.213 [main] INFO  factory.BaseClass - *******Scroll Down*******
+12:54:59.217 [main] INFO  factory.BaseClass - *******Click on the Gym*******
+12:54:59.221 [main] INFO  factory.BaseClass - ******Getting the submenu in list*******
+12:54:59.245 [main] INFO  factory.BaseClass - *******Get the all details from submenu dropdown*******
+12:55:48.223 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+12:55:48.273 [main] INFO  factory.BaseClass - *******Enter the Car washing services and search*******
+12:55:48.286 [main] INFO  factory.BaseClass - *******Applying the filter*******
+12:55:48.290 [main] INFO  factory.BaseClass - *******Getting the details of services*******
+12:55:48.294 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+12:55:48.301 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+12:55:48.307 [main] INFO  factory.BaseClass - *******Enter The wrong number*******
+12:55:48.311 [main] INFO  factory.BaseClass - *******Click on the start now button*******
+12:55:48.314 [main] INFO  factory.BaseClass - ******Validating the error message******
+12:55:48.317 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+12:55:48.324 [main] INFO  factory.BaseClass - *******Scroll Down*******
+12:55:48.328 [main] INFO  factory.BaseClass - *******Click on the Gym*******
+12:55:48.331 [main] INFO  factory.BaseClass - ******Getting the submenu in list*******
+12:55:48.335 [main] INFO  factory.BaseClass - *******Get the all details from submenu dropdown*******
+13:11:56.653 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+13:11:56.694 [main] INFO  factory.BaseClass - *******Scroll Down*******
+13:11:56.698 [main] INFO  factory.BaseClass - *******Click on the Gym*******
+13:11:56.702 [main] INFO  factory.BaseClass - ******Getting the submenu in list*******
+13:11:56.711 [main] INFO  factory.BaseClass - *******Get the all details from submenu dropdown*******
+14:43:58.175 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:43:58.186 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+14:43:58.204 [main] INFO  factory.BaseClass - *******Enter The wrong number*******
+14:43:58.211 [main] INFO  factory.BaseClass - *******Click on the start now button*******
+14:43:58.215 [main] INFO  factory.BaseClass - ******Validating the error message******
+14:43:58.219 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+14:43:58.227 [main] INFO  factory.BaseClass - *******Scroll Down*******
+14:43:58.233 [main] INFO  factory.BaseClass - *******Click on the Gym*******
+14:43:58.238 [main] INFO  factory.BaseClass - ******Getting the submenu in list*******
+14:43:58.260 [main] INFO  factory.BaseClass - *******Get the all details from submenu dropdown*******
+15:12:42.365 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+15:12:43.581 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+15:12:45.549 [main] INFO  factory.BaseClass - *******Enter The wrong number*******
+15:12:45.871 [main] INFO  factory.BaseClass - *******Click on the start now button*******
+15:12:46.189 [main] INFO  factory.BaseClass - ******Validating the error message******
+15:21:54.381 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+15:22:43.406 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+15:22:45.342 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+15:28:27.003 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+15:28:28.159 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
+15:28:30.378 [main] INFO  factory.BaseClass - *******Click on the start now button*******
+15:28:30.677 [main] INFO  factory.BaseClass - ******Validating the error message******
+15:29:10.211 [main] INFO  factory.BaseClass - *******Navigate to the Justdial homePage*******
+15:29:11.813 [main] INFO  factory.BaseClass - *******	Click on the Free Listing*******
